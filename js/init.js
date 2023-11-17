@@ -9,10 +9,10 @@
 // @ts-ignore
 firebase.initializeApp({
     apiKey: "AIzaSyD2ewQSlwZKIHrfwx27b68fnW5XOGLyztY",
-    authDomain: "bdalum43amss-ce4d4.firebaseapp.com",
-    projectId: "bdalum43amss-ce4d4",
-    storageBucket: "bdalum43amss-ce4d4.appspot.com",
-    messagingSenderId: "608842875879",
-    appId: "1:608842875879:web:16b7fe8bc8432739027342",
-    measurementId: "G-ZZVDB63NTW"
+  authDomain: "bdalum43amss-ce4d4.firebaseapp.com",
+  projectId: "bdalum43amss-ce4d4",
+  storageBucket: "bdalum43amss-ce4d4.appspot.com",
+  messagingSenderId: "608842875879",
+  appId: "1:608842875879:web:16b7fe8bc8432739027342",
+  measurementId: "G-ZZVDB63NTW"
 });
